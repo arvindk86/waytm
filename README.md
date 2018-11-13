@@ -1,2 +1,2 @@
 # waytm
-waytm
+waytm App
