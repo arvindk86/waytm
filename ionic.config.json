@@ -1,0 +1,8 @@
+{
+  "name": "waytm",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "e56ac888"
+}
